@@ -1,1 +1,1 @@
-# Skin-disease-classification nigga
+# Skin-disease-classification 
